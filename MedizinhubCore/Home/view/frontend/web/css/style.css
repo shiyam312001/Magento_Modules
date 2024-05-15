@@ -1,0 +1,900 @@
+
+.order-prescription {
+    background-color: rgba(251, 231, 208, 1);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.routine-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #062B37;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+.order-prescription {
+    background-color: rgba(251, 231, 208, 1);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.routine-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #062B37;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.routine-btn:hover {
+    background: #062B37;
+    color: #FFF;
+}
+
+.women-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #3F0E36;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.women-book-btn:hover {
+    background: #3F0E36;
+    color: #FFF;
+}
+
+.men-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #6B0007;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.men-book-btn:hover {
+    background: #6B0007;
+    color: #FFF;
+}
+
+.senior-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #2C1254;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.senior-book-btn:hover {
+    background: #2C1254;
+    color: #FFF;
+}
+
+.fever-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #054146;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.fever-book-btn:hover {
+    background: #054146;
+    color: #FFF;
+}
+
+.view-health-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #e76f51;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.preg-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+
+    color: #F4A261;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.breath-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+
+    color: #E5B84C;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.fever-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #2A9D8F;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.body-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #287271;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+/* Today's Deals Title */
+.today-deals-title {
+    color: #063851;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Discount Description */
+.today-deals-discount {
+    color: #859ca8;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* View All Link */
+.view-all-link {
+    text-decoration: none;
+    float: right;
+    font-weight: 600;
+    color: #00739B !important;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Product Card */
+.product-card {
+    border-radius: 9.404px;
+    border: 1px solid #03C777;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+    background: #fff;
+    height: 336px !important;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* Discount Percentage */
+.discount-percentage {
+    position: relative;
+    display: inline-block;
+    margin-left: -11px;
+}
+
+/* Product Image Container */
+.product-image-container {
+    width: 100%;
+    text-align: center;
+    height: 133px;
+    margin: -10px 0px 0px 0px;
+}
+
+/* Product Image */
+.product-image {
+    object-fit: contain;
+    height: 133px;
+}
+
+/* Product Details */
+.product-details {
+    margin-top: 5px;
+    padding: 0 10px;
+}
+
+/* Product Name */
+.product-name {
+    height: 41px;
+    margin-bottom: 15px;
+}
+
+/* Product Price */
+.product-price {
+    margin-bottom: -6px;
+}
+
+/* Regular Price */
+.regular-price {
+    color: #797979;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+
+/* Offer Price */
+.offer-price {
+    text-decoration: none;
+    color: #000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Add to Cart Button */
+.add-to-cart-btn {
+    margin-top: 10px;
+    width: 100%;
+    height: 44px;
+    padding: 10px 18px;
+    border-radius: 8px;
+    background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%);
+    color: #FFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Quantity Container */
+.quantity-container {
+    display: none;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid #01A964;
+    padding: 6px 33px;
+}
+
+/* Decrement Button */
+.decrement-btn,
+.increment-btn {
+    fill: white;
+}
+
+/* Quantity Value */
+.quantity-value {
+    padding: 0 15px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Increment Button */
+.increment-btn {
+    margin-left: 10px;
+}
+
+.bp-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #e76f51;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+#link-login {
+    font-size: 17px;
+    font-weight: 600;
+    color: #049B7E;
+    font-family: "Source Sans Pro";
+    margin-top: 12px;
+}
+
+.search-btn {
+    position: absolute;
+    margin-top: -44px;
+    margin-left: 532px;
+    border-radius: 88px;
+    width: 98px;
+    height: 41px;
+    font-size: 16px;
+    background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%);
+    color: #fff;
+    font-weight: 500;
+    border: 1px solid #03C777;
+}
+
+.search-btn:hover {
+    position: absolute;
+    margin-top: -44px;
+    margin-left: 532px;
+    border-radius: 88px;
+    width: 98px;
+    height: 41px;
+    font-size: 16px;
+    background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%);
+    color: #fff;
+    font-weight: 500;
+    border: 1px solid #03C777;
+}
+
+
+.diabetics-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #934606;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.diabetics-btn:hover {
+    background: #934606;
+    color: #FFF;
+}
+
+.decrement-btn {
+    cursor: pointer;
+}
+
+.increment-btn {
+    cursor: pointer;
+}
+
+.thyroid-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #0A264D;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.thyroid-btn:hover {
+    background: #0A264D;
+    color: #FFF;
+}
+
+.grow {
+
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+.fullbody-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #5A5507;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.fullbody-btn:hover {
+    background: #5A5507;
+    color: #FFF;
+}
+
+.home-index-index #maincontent {
+    display: none !important;
+}
+
+footer {
+    display: flex !important;
+    background: #049B7E !important;
+}
+
+.scroll-inner {
+    width: 100%;
+    text-align: center;
+}
+
+.order-doctor {
+    background-color: rgba(204, 255, 240, 1);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.order-prescription-content {
+    color: #003827;
+    font-family: Source Sans Pro, Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.order-offer-prescription {
+    color: #004D36;
+    font-family: Source Sans Pro, Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.book-my-btn {
+    background-color: #03c777;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    height: 44px;
+}
+
+.home-today-deals{
+    color: #063851;font-family: Source Sans Pro,Sans-serif;font-size: 24px;font-weight: 600;
+}
+.test-package-name{
+    color: #5a5507;font-family: Reem Kufi,Sans-serif;font-size: 22px;font-weight: 400;line-height: 34px;font-weight:600;
+}
+.test-package-off{
+    color: #5a5507;font-family: Reem Kufi,Sans-serif;font-size: 22px;font-weight: 400;line-height: 34px;font-weight:600;
+}
+.section-title{
+    color: #063851;font-family: Source Sans Pro,Sans-serif;font-size: 24px;font-weight: 600;
+}
+.section-sub-title{
+    color: #859ca8;font-family: Ubuntu,Sans-serif;font-size: 18px;font-weight: 400;
+}
+
+.product-li-link{
+    text-decoration:none;font-size: 16px;font-weight:600;font-family:Source Sans Pro;color:#000;
+}
+.cms-deals-sub{
+    color: #859ca8;font-family: Ubuntu,Sans-serif;font-size: 18px;font-weight: 400;
+}
+.today-deals-view{
+    text-decoration:none;float:right;font-weight: 600;color:#00739B !important;font-size: 14px;font-family: Source Sans Pro;
+}
+.product-slide{
+border-radius: 9.404px;border: 1px solid #03C777;box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;background: #fff; height: 336px !important; border-radius: 8px; padding:10px;
+}
+.deals-discount-percentage{
+position: relative; display: inline-block;margin-left:-11px;
+}
+.product-image-container{
+width:100%;text-align:center;height:133px;margin:-10px 0px 0px 0px;
+}
+.deals-product-details{
+margin-top:5px;padding:0 10px;
+}
+.deals-product-name{
+font-size: 16px !important; font-weight: 500 !important; font-family: Source Sans Pro !important; text-decoration:none;
+}
+.deals-old-price{
+margin-bottom: -6px;
+}
+.deals-old-price a{
+text-decoration:none;color:#797979;font-family: Source Sans Pro; font-size: 16px;
+}
+.deals-regular-price{
+color:#797979;font-family: Source Sans Pro; font-size: 16px; font-style: normal; font-weight: 400; line-height: normal; text-decoration:line-through;
+}
+.deals-final-price{
+font-family: Source Sans Pro;color:#313739; font-size: 24px; font-style: normal; font-weight: 600; line-height: normal; text-decoration:none;
+}
+.deals-final-price-link{
+text-decoration:none;color:#000 !important;font-family: Source Sans Pro; font-size: 16px;font-weight:600;
+}
+.add-to-cart-btn{
+margin-top: 10px;width: 100%; height: 44px; padding: 10px 18px; border-radius: 8px; background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%); color: #FFF; font-family: Source Sans Pro; font-size: 16px; font-style: normal; font-weight: 600;
+}
+.add-to-cart-btn:hover{
+margin-top: 10px;width: 100%; height: 44px; padding: 10px 18px; border-radius: 8px; background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%); color: #FFF; font-family: Source Sans Pro; font-size: 16px; font-style: normal; font-weight: 600;
+}
+.quantity-container{
+display: none;margin-top: 10px;border-radius: 8px;border: 1px solid #01A964;padding: 6px 33px;
+}
+.quantity-value{
+padding: 0 15px;font-size: 16px;font-weight: 600;font-family: Source Sans Pro;
+}
+/* Health Devices Container */
+.care-device {
+    margin-top: 40px;
+}
+
+/* Deal Title */
+.deal-title {
+    color: #063851;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Deal Description */
+.deal-description {
+    color: #859ca8;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* Deal Info */
+.deal-info {
+    padding: 20px 88px 10px 20px;
+    color: #fff;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+/* View All Button */
+.view-health-btn,
+.preg-view-btn,
+.breath-view-btn,
+.fever-view-btn,
+.body-view-btn,
+.bp-view-btn {
+    color: #fff;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Mo
+bile Styles */
+@media screen and (max-width: 768px) {
+    .swiper-container {
+        width: 100%;
+    }
+
+    .swiper-slide {
+        width: calc(50% - 20px);
+        margin-right: 10px;
+    }
+
+    .container.today-deals .row {
+        flex-wrap: wrap;
+    }
+
+    .quantity-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/* Tablet Styles */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .swiper-slide {
+        width: calc(33.33% - 20px);
+        margin-right: 10px;
+    }
+}
+
+/* Desktop Styles */
+@media screen and (min-width: 1025px) {
+    .swiper-slide {
+        width: calc(16.66% - 20px);
+        margin-right: 10px;
+    }
+}
+.book-my-btn:hover {
+    background-color: #03c777;
+    color: #fff;
+}
+
+.swiper-wrapper {
+    margin: 10px 0;
+}
+.routine-btn:hover {
+    background: #062B37;
+    color: #FFF;
+}
+
+.women-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #3F0E36;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.women-book-btn:hover {
+    background: #3F0E36;
+    color: #FFF;
+}
+
+.men-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #6B0007;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.men-book-btn:hover {
+    background: #6B0007;
+    color: #FFF;
+}
+
+.senior-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #2C1254;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.senior-book-btn:hover {
+    background: #2C1254;
+    color: #FFF;
+}
+
+.fever-book-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #054146;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.fever-book-btn:hover {
+    background: #054146;
+    color: #FFF;
+}
+
+.view-health-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #e76f51;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.preg-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+
+    color: #F4A261;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.breath-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+
+    color: #E5B84C;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.fever-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #2A9D8F;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.body-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #287271;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.bp-view-btn {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, .3);
+    color: #e76f51;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+#link-login {
+    font-size: 17px;
+    font-weight: 600;
+    color: #049B7E;
+    font-family: "Source Sans Pro";
+    margin-top: 12px;
+}
+
+.search-btn {
+    position: absolute;
+    margin-top: -44px;
+    margin-left: 532px;
+    border-radius: 88px;
+    width: 98px;
+    height: 41px;
+    font-size: 16px;
+    background: linear-gradient(94deg, #03C777 56.99%, #01A462 99.73%);
+    ;
+    color: #fff;
+    font-weight: 500;
+    border: 1px solid #03C777;
+}
+
+
+.diabetics-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #934606;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.diabetics-btn:hover {
+    background: #934606;
+    color: #FFF;
+}
+
+.thyroid-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #0A264D;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.thyroid-btn:hover {
+    background: #0A264D;
+    color: #FFF;
+}
+
+.grow {
+
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+.fullbody-btn {
+    height: 40px;
+    border-radius: 4.347px;
+    background: #5A5507;
+    color: #FFF;
+    font-family: Montserrat !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    width: 107px;
+    margin-top: 15px;
+}
+
+.fullbody-btn:hover {
+    background: #5A5507;
+    color: #FFF;
+}
+
+.home-index-index #maincontent {
+    display: none !important;
+}
+
+footer {
+    display: flex !important;
+    background: #049B7E !important;
+}
+
+.scroll-inner {
+    width: 100%;
+    text-align: center;
+}
+
+.order-doctor {
+    background-color: rgba(204, 255, 240, 1);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.order-prescription-content {
+    color: #003827;
+    font-family: Source Sans Pro, Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.order-offer-prescription {
+    color: #5b95c1;
+    font-family: Source Sans Pro, Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.book-my-btn {
+    background-color: #03c777;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    height: 44px;
+}
+
+.book-my-btn:hover {
+    background-color: #03c777;
+    color: #fff;
+}
